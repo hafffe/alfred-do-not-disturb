@@ -32,8 +32,7 @@ const makeRequest = async input => {
 			break;
 		default:
 			output.push({
-				title: 'Available commands are: On, Off, Toggle, Status',
-				arg: 'status'
+				title: 'Available commands are: On, Off, Toggle, Status'
 			});
 	}
 };
