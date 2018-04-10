@@ -1,6 +1,6 @@
 {
 	"name": "alfred-do-not-disturb",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Do-not-disturb alfred workflow",
 	"license": "MIT",
 	"repository": "alonalon/alfred-do-not-disturb",
