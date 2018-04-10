@@ -22,7 +22,10 @@
 		"bin.js"
 	],
 	"keywords": [
-		""
+		"alfy",
+		"alfred",
+		"workflow",
+		"notifications"
 	],
 	"dependencies": {
 		"@sindresorhus/do-not-disturb": "^0.2.0",
