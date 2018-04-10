@@ -19,7 +19,8 @@
 	},
 	"files": [
 		"index.js",
-		"bin.js"
+		"dnd.js",
+		"info.plist"
 	],
 	"keywords": [
 		"alfy",
