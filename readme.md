@@ -20,6 +20,9 @@ When your desired task shows and press <kbd>Enter</kbd> to call.
 - [do-not-disturb](https://github.com/sindresorhus/do-not-disturb) - API for do-not-disturb
 - [do-not-disturb-cli](https://github.com/sindresorhus/do-not-disturb-cli) - CLI for do-not-disturb
 
+## Graphics
+- Icons made by [Freepik](http://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+
 ## License
 
 MIT © [alonalon](http://aronhafner.com)
